@@ -17,4 +17,4 @@
 <br>
 1. 프로젝트 클론 <br>>> git clone https://github.com/SeoBamm/DiscordShomBot <br><br>
 2. 의존성 설치 <br>>> pip install py-cord opencensus-ext-azure python-dotenv mysql-connector-python <br><br>
-3. 
+3. initializedDB
