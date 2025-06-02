@@ -17,4 +17,5 @@
 <br>
 1. 프로젝트 클론 <br>>> git clone https://github.com/SeoBamm/DiscordShomBot <br><br>
 2. 의존성 설치 <br>>> pip install py-cord opencensus-ext-azure python-dotenv mysql-connector-python <br><br>
-3. initializedDB
+3. initializeDB 디렉토리 내의 csv 파일을 MySQL seobot_db 스키마에 import <br><br>
+4. ShomBotApplication.py 실행<br>>> python ShomBotApplication.py
